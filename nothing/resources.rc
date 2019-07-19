@@ -1,0 +1,156 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+#include "ks.h"
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "#include ""ks.h""\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Neutral resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEU)
+#ifdef _WIN32
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+#pragma code_page(1254)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "res\\icon.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// MESH
+//
+
+MESH_ACAYIP             MESH                    "res\\acayip.X"
+MESH_KUTULAR            MESH                    "res\\kutular.X"
+MESH_SPHERE             MESH                    "res\\sphere.x"
+MESH_SACMA              MESH                    "res\\sacma.x"
+MESH_TUNNEL             MESH                    "res\\tunnel.x"
+MESH_SPACESHIP          MESH                    "res\\space_ship.x"
+MESH_GREETSMERKEZ       MESH                    "res\\greets_merkez.x"
+MESH_GREETSICCEMBER     MESH                    "res\\greets_iccember.x"
+MESH_GREETSCEMBER       MESH                    "res\\greets_cember.x"
+MESH_GREETSMONITORS     MESH                    "res\\greets_monitors.x"
+MESH_BORUTUNNEL         MESH                    "res\\borutunnel.x"
+MESH_TB                 MESH                    "res\\tb2.x"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// RCDATA
+//
+
+TEXTURE_WHITE           RCDATA                  "res\\white.jpg"
+TEXTURE_LINES           RCDATA                  "res\\lines.png"
+TEXTURE_COLORS          RCDATA                  "res\\colorstexture.jpg"
+TEXTURE_LOGO            RCDATA                  "res\\logo.png"
+TEXTURE_FILTER1         RCDATA                  "res\\filter1.png"
+TEXTURE_FILTER2         RCDATA                  "res\\filter2.png"
+TEXTURE_FILTER3         RCDATA                  "res\\filter3.png"
+TEXTURE_FILTER4         RCDATA                  "res\\filter4.png"
+TEXTURE_FILTER5         RCDATA                  "res\\filter5.png"
+TEXTURE_STARS           RCDATA                  "res\\stars.jpg"
+TEXTURE_CHROME          RCDATA                  "res\\chrome.jpg"
+TEXTURE_HALU            RCDATA                  "res\\halu.jpg"
+TEXTURE_WEST            RCDATA                  "res\\west.jpg"
+TEXTURE_MAVI            RCDATA                  "res\\mavi.jpg"
+TEXTURE_LIGHTSQ         RCDATA                  "res\\lightsquares.jpg"
+TEXTURE_SCALEBAR        RCDATA                  "res\\scale.png"
+TEXTURE_ENVMAP01        RCDATA                  "res\\envmap01.jpg"
+
+TEXTURE_TEXT1           RCDATA                  "res\\text1.png"
+TEXTURE_TEXT2           RCDATA                  "res\\text2.png"
+TEXTURE_TEXT3           RCDATA                  "res\\text3.png"
+TEXTURE_TEXT4           RCDATA                  "res\\text4.png"
+TEXTURE_TEXT5           RCDATA                  "res\\text5.png"
+TEXTURE_TEXT6           RCDATA                  "res\\text6.png"
+
+TEXTURE_GREETS1         RCDATA                  "res\\greets_text1.jpg"
+TEXTURE_GREETS2         RCDATA                  "res\\greets_text2.jpg"
+TEXTURE_GREETS3         RCDATA                  "res\\greets_text3.jpg"
+TEXTURE_GREETS4         RCDATA                  "res\\greets_text4.jpg"
+TEXTURE_GREETS5         RCDATA                  "res\\greets_text5.jpg"
+TEXTURE_GREETS6         RCDATA                  "res\\greets_text6.jpg"
+TEXTURE_GREETS7         RCDATA                  "res\\greets_text7.jpg"
+TEXTURE_GREETS8         RCDATA                  "res\\greets_text8.jpg"
+
+TEXTURE_NOISE1          RCDATA                  "res\\noise1.jpg"
+TEXTURE_NOISE2          RCDATA                  "res\\noise2.jpg"
+TEXTURE_NOISE3          RCDATA                  "res\\noise3.jpg"
+
+TEXTURE_ROBOT1          RCDATA                  "res\\govde_texture.jpg"
+TEXTURE_ROBOT2          RCDATA                  "res\\motor_silindir_texture.jpg"
+TEXTURE_ROBOT3          RCDATA                  "res\\govde_kusaklari_texture.jpg"
+
+TEXTURE_METAL           RCDATA                  "res\\metal.jpg"
+
+
+MUSIC_GLOBAL            RCDATA                  "res\\music.mp3"
+SHADER_BLUR             RCDATA                  "res\\blur.fx"
+
+#endif    // Neutral resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
